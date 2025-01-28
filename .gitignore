@@ -4,3 +4,4 @@ Uisaves/*.csv
 .idea/
 .bsp/
 target/
+.DS_Store
