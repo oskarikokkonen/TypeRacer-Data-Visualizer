@@ -1,0 +1,6 @@
+out/
+!UIsaves/
+Uisaves/*.csv
+.idea/
+.bsp/
+target/
